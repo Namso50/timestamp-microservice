@@ -1,6 +1,6 @@
 # Freecodecamp Back end Development and APIs projects
 
-## timestamp-microservice
+## Timestamp Microservice
 A request to /api/:date? with a valid date return a JSON object with a unix key that is a Unix timestamp of the input date in milliseconds and a utc key that is a string of the input date in the format: Thu, 01 Jan 1970 00:00:00 GMT
 
 ## Install the dependencies
